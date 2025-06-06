@@ -9,8 +9,8 @@
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>Spring Boot HTML App</name>
-	<description>Spring Boot application with HTML frontend</description>
+	<name>Spring Boot application with HTML and CSS frontend</name>
+	<description>Spring Boot application with HTML and CSS frontend</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
